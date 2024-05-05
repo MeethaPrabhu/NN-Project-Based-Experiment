@@ -104,18 +104,18 @@ print(x_single_prediction)
 plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ```
 ## Output:
-Training Loss and Validation Loss
-![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/6d848c95-1167-42b9-a9f8-bdf8f3c04794)
-![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/360e662e-2f66-4271-a047-3027c4c289c6)
+Training Loss and Validation Loss<br>
+![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/6d848c95-1167-42b9-a9f8-bdf8f3c04794) <br>
+![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/360e662e-2f66-4271-a047-3027c4c289c6) <br>
 
-Classification Report
-![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/d973efa5-ee07-40da-9f11-0ce064564b32)
+Classification Report <br>
+![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/d973efa5-ee07-40da-9f11-0ce064564b32) <br>
 
-Confusion Matrix
-![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/8cedea82-b52c-4d37-ad74-ae7762403871)
+Confusion Matrix <br>
+![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/8cedea82-b52c-4d37-ad74-ae7762403871) <br>
 
-New Sample Data Prediction
-![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/45e03729-f463-48a9-83e0-3aabbcd1b249)
+New Sample Data Prediction <br>
+![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/45e03729-f463-48a9-83e0-3aabbcd1b249) <br>
 
-![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/ca28e703-3292-4115-b01d-78c742bb84a2)
+![image](https://github.com/MeethaPrabhu/NN-Project-Based-Experiment/assets/119401038/ca28e703-3292-4115-b01d-78c742bb84a2) <br>
 
